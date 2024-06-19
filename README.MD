@@ -31,7 +31,7 @@ bookstore/
 
 1. Clone o repositório:
 ```sh
-   git clone https://github.com/seu-usuario/bookstore.git
+   git clone https://github.com/PortelaD/Programacao-WEB-AT2-N2-2
 ```
 
 2. Navegue até o diretório do projeto:
